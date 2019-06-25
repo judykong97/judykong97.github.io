@@ -1,0 +1,15 @@
+---
+title: Scene
+subtitle: A one-sentenced description
+category: Web Development
+layout: default
+modal-id: 6
+date: 2018-02-01
+img: roundicons.png
+thumbnail: roundicons-thumbnail.png
+alt: image-alt
+project-date: Feburary 2018
+client: Start Bootstrap
+description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+
+---
