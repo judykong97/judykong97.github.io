@@ -3,6 +3,58 @@ title: Judy Kong | Research
 layout: default
 ---
 
+<section id="publication" class="bg-light-gray">
+	<div class="container">
+		<div class="row">
+            <div class="col-lg-12">
+                <h3 class="section-subheading text-muted text-center">My research focuses on using artificial intelligence and crowdsorcing to solve accessibility problems.</h3>
+            </div>
+        </div>
+		<div class="row">
+            <div class="col-lg-12">
+                <h2 class="section-subheading">Publications</h2>
+                <h3 class="section-subheading text-muted">Lorem ipsum dolor sit amet consectetur.</h3>
+            </div>
+        </div>
+        <!-- The first publication -->
+        {% assign sorted = (site.posts | sort: 'date') | reverse %}
+        {% for post in sorted %}
+            {% if post.path contains 'publications' %}
+            <div class="row">
+                <div class="col-md-3 col-sm-12 publication-item">
+                    <a href="#" class="publication-link" data-toggle="modal">
+                        <div class="publication-hover">
+                            <div class="publication-hover-content">
+                                <!-- <i class="fa fa-plus fa-3x"></i> -->
+                                <p.large class="text-light">{{ post.conference }}</p>
+                            </div>
+                        </div>
+                        <img src="/img/portfolio/{{ post.thumbnail }}" class="img-responsive img-centered" alt="">
+                    </a>
+                    <!-- <div class="portfolio-caption">
+                        <h4>{{ post.title }}</h4>
+                        <p class="text-muted">{{ post.category }}</p>
+                    </div> -->
+                </div>
+                <div class="col-md-9 col-sm-12 publication-item">
+                    <h4>{{ post.fulltitle }}</h4>
+                    <h5 class="text-muted">{{ post.authors }}</h5>
+                    <a href="#" class="text-primary">PDF</a> | 
+                    <a href="#" class="text-primary">ACM DL</a>
+                </div>
+            </div>
+            {% endif %}
+        {% endfor %}
+        <br><br>
+        <div class="row">
+            <div class="col-lg-12">
+                <h2 class="section-subheading">On-going Research</h2>
+                <h3 class="section-subheading text-muted">Lorem ipsum dolor sit amet consectetur.</h3>
+            </div>
+        </div>
+	</div>
+</section>
+
 <section id="portfolio" class="bg-light-gray">
     <div class="container">
         <div class="row">

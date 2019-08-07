@@ -3,13 +3,24 @@ Project List:
 Research
 1-statelens-StateLens
 2-*Reserved*
+3-vizlens-VizLens User Group Analysis
 
 
 Projects
-scene-Scene-AR Mobile Dev
-hebo-Hebo 2.0-Interaction Design
-parallellda-Parallel LDA-Algo Implementation
-dispatch-Dispatch-Interaction Design
-kara-Kara-Interaction Design
-beeline-Beeline-Interaction Design
+1
+2
+3
+
+4-*Reserved*
+5-*Reserved*
+
+scene-Scene-AR Dev
 safewalk-SafeWalk-Mobile Dev
+
+hebo-Hebo 2.0-Interaction Design
+dispatch-Dispatch-Interaction Design
+cj-Construction Junction-Interaction Design
+kara-Kara-Interaction Design
+beeline-Beeline-User Research
+
+parallellda-Parallel LDA-Parallel Computing
