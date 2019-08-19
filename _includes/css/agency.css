@@ -18,6 +18,10 @@ body {
     color: #{{ site.data.template.color.primary }};
 }
 
+.text-dark {
+    color: #{{ site.data.template.color.secondary-dark }};
+}
+
 .text-light {
     color: #{{ site.data.template.color.secondary-light }};
 }
