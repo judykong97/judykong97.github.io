@@ -37,8 +37,9 @@ layout: default
                     </div> -->
                 </div>
                 <div class="col-md-9 col-sm-12 publication-item">
-                    <h4>{{ post.fulltitle }}</h4>
+                    <h4><a href="#">{{ post.fulltitle }}</a></h4>
                     <h5 class="text-dark">{{ post.authors }}</h5>
+                    <h5 class="text-dark"><b>{{ post.conference }}</b></h4>
                     <a href="{{ post.pdf }}" class="text-primary">PDF</a> | 
                     <a href="{{ post.doi }}" class="text-primary">DOI</a>
                 </div>

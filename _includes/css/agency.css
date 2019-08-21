@@ -52,6 +52,7 @@ a:focus,
 a:active,
 a.active {
     color: #{{ site.data.template.color.secondary }};
+    text-decoration: none;
 }
 
 h1,
