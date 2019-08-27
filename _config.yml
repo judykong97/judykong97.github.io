@@ -6,7 +6,6 @@ title: Judy Kong
 email: junhank@andrew.cmu.edu
 description: "Judy Kong's Personal Website"
 
-
 # collections:
 #   summary:
 #     title: true
@@ -87,4 +86,4 @@ description: "Judy Kong's Personal Website"
 
 # Build settings
 markdown: kramdown
-permalink: pretty
+permalink: /:title

@@ -2,7 +2,7 @@
 title: Scene
 subtitle: None
 category: Web Development
-layout: default
+layout: post
 modal-id: 101
 date: 2018-02-01
 img: roundicons.png

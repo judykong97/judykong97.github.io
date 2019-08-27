@@ -2,7 +2,7 @@
 title: Hebo
 subtitle: None
 category: Interaction Design
-layout: default
+layout: post
 modal-id: 102
 date: 2019-05-15
 img: roundicons.png

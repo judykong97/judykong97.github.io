@@ -1,0 +1,27 @@
+---
+layout: default
+---
+<section id="portfolio" class="bg-light-gray">
+    <div class="container">
+        <div class="close-modal" data-dismiss="modal">
+            <div class="lr">
+                <div class="rl">
+                </div>
+            </div>
+        </div>
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-8 col-lg-offset-2">
+                    <div class="modal-body">
+                        <h2>{{ page.title }}</h2>
+                        <hr class="star-primary">
+                        <img src="/img/portfolio/{{ post.img }}" class="img-responsive img-centered" alt="{{ post.alt }}">
+                        <p>{{ page.description }}</p>
+                        {{ content }}
+                        <button type="button" class="btn btn-default"></i> Back</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
