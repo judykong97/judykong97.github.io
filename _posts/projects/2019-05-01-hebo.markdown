@@ -1,6 +1,6 @@
 ---
 title: Hebo
-subtitle: None
+subtitle: Post-Operative Care Assistant
 category: Interaction Design
 layout: post
 modal-id: 102
