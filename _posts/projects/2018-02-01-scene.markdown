@@ -3,7 +3,7 @@ title: Scene
 subtitle: An Augmented Reality Gallery
 category: Web Development
 layout: post
-modal-id: 101
+id: 6
 date: 2018-02-01
 img: roundicons.png
 thumbnail: roundicons-thumbnail.png

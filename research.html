@@ -16,7 +16,7 @@ layout: default
             </div>
         </div>
         <!-- The first publication -->
-        {% assign sorted = (site.posts | sort: 'date') | reverse %}
+        {% assign sorted = site.posts | sort: 'date' | reverse %}
         {% for post in sorted %}
             {% if post.path contains 'publications' %}
             <div class="row">

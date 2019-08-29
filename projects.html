@@ -11,7 +11,7 @@ layout: default
                 <h3 class="section-subheading text-muted">Lorem ipsum dolor sit amet consectetur.</h3>
             </div>
         </div>
-        {% assign sorted = (site.posts | sort: 'date') | reverse %}
+        {% assign sorted = site.posts | sort: 'id' | reverse %}
         <div class="row">
         {% for post in sorted %}
         	{% if post.path contains 'projects' %}
