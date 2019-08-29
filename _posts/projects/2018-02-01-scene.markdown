@@ -1,6 +1,6 @@
 ---
 title: Scene
-subtitle: None
+subtitle: An Augmented Reality Gallery
 category: Web Development
 layout: post
 modal-id: 101
