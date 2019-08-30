@@ -86,4 +86,4 @@ description: "Judy Kong's Personal Website"
 
 # Build settings
 markdown: kramdown
-permalink: /:title
+permalink: /projects/:title
