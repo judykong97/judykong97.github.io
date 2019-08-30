@@ -1,6 +1,6 @@
 ---
 title: Scene
-subtitle: An Augmented Reality Gallery Tour Guide
+subtitle: Augmented Reality Gallery Tour Guide
 category: Augmented Reality
 layout: post
 id: 6
