@@ -9,7 +9,7 @@ thumbnail: statelens-thumbnail.jpg
 alt: image-alt
 project-date: April 2019
 description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
-pdf: StateLens_UIST_2019_Camera_Ready_Accessible.pdf
+pdf: StateLens_UIST2019_Accessible.pdf
 video: https://www.youtube.com/watch?v=P127TFsQHkM
-doi: #
+doi: https://dl.acm.org/citation.cfm?id=3347873
 ---

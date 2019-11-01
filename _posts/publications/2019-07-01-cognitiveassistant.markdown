@@ -9,7 +9,7 @@ thumbnail: cognitiveassistant-thumbnail.jpg
 alt: image-alt
 project-date: July 2019
 description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
-pdf: CognitiveAssistant_ASSETS2019Demo_Accessible.pdf
+pdf: SupportingOlderAdults_ASSETS2019_Accessible.pdf
 video: #
-doi: #
+doi: https://dl.acm.org/citation.cfm?id=3354593
 ---
