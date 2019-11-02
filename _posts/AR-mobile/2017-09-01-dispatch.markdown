@@ -1,0 +1,120 @@
+---
+title: Dispatch
+fulltitle: "Dispatch: A Cross-Platform Responsive Peer Economy Solution to Shipping Problems in Furniture Exchange"
+subtitle: Peer-to-Peer Furniture Shipping Solution
+category: Mobile
+layout: post
+date: 2017-09-01
+img: dispatch.jpg
+thumbnail: dispatch-thumbnail.jpg
+alt: image-alt
+project-date: September 2017
+description: In this project, we researched on existing challenges in peer-to-peer furniture exchange, and designed a cross-platform application to address shipping problems during the process. My teammates and I first brainstormed ideas through collaborative sketching and storyboarding, then iteratively improved the design through various rounds of design critique and refinements. 
+story: 
+---
+
+<img src="/img/portfolio/dispatch.jpg" class="img-responsive img-centered" alt="">
+
+### Motivation
+
+![img]({{site.baseurl}}/img/projects/dispatch/dispatch-motivation.jpg)
+
+*"I hate moving."*
+
+Moving furnitures from one place to another has always been a suffer for both customers and sellers in furniture exchange, especially when neither the seller nor the customer has a car. We've seen a thousand times "pick-up only" desks or bookcases on Facebook sales pages, and decided to ignore even if they look decent - just because it's hard to carry the furnitures home.
+
+### Literature Research
+
+To get started with our design for the furniture exchange application, we first did some literature research on the topic.
+
+By searching for some papers and articles on the furniture industry, we gained some basic understanding of the market, different roles involved in the exchange process, and the key factors of value creation during the process.
+
+![img]({{site.baseurl}}/img/projects/dispatch/dispatch-research.jpg)
+
+The pictures above both describe the furniture industry in different forms of representations, and are from the articles “The globalization of product markets and immiserizing growth: lessons from the South African furniture industry“ and “Value co-creation among retailers and consumers: New insights into the furniture market”. From these articles, we found some common key factors of the furniture industry under different contexts - one important factor is shipping / delivery, which is quite unique to furnitures compared to other types of products in market.
+
+We also listed out a few of our competitors, including Ebay (as a general item exchange website), Facebook For Sale Groups, Craiglist, etc. These different competitors show different approaches of furniture exchange currently existing in the market, yet all have different advantages and disadvantages.
+
+By comparing our competitors, we found that lots of successful furniture exchange systems are based on geographical locations. We also found some common existing problems:
+
+- Right now most furniture exchange websites look very similar to retail websites of other kinds of products, and do not address or emphasize special or important features for furnitures.
+
+- Shipping might be a big issue.
+
+### How Dispatch works to improve both customer and seller experience
+
+![img]({{site.baseurl}}/img/projects/dispatch/dispatch-solution.jpg)
+
+### Storyboard
+
+![img]({{site.baseurl}}/img/projects/dispatch/dispatch-storyboard-customer.jpg)
+![img]({{site.baseurl}}/img/projects/dispatch/dispatch-storyboard-driver.jpg)
+
+### Lo-Fidelity Prototype
+
+![img]({{site.baseurl}}/img/projects/dispatch/dispatch-lofi-seller.jpg)
+![img]({{site.baseurl}}/img/projects/dispatch/dispatch-lofi-buyer.jpg)
+
+### First Iteration
+
+During critique, we received some comments on our scenarios, the screen maps and the lo-fi wireframes:
+
+- Customers and sellers always seek for lower ship- ping price, and we need to add price information in our design.
+
+- Uber is already existing in market, and we need to figure out unique features of our design to make it stand out in the market.
+
+- Convenience is big concern for most customers and sellers, and our current design was not re- solving that problem perfectly.
+
+Based on these critiques, we refined our design and made the below modifications:
+
+- We added the price page in the sketches.
+
+- We added more details in options for delivery and pickup: for example, the specific time of delivery.
+
+- We limited the scope of our design and started focusing mainly on the driver part because that’s the part that creates the most value.
+
+### Moodboard
+
+![img]({{site.baseurl}}/img/projects/dispatch/dispatch-moodboard.jpg)
+
+### Second Iteration
+
+During the second round of critique, we received more comments on our design:
+
+- Some furnitures are too large and too heavy for one person to carry, so sometimes drivers need people to help with carrying the furniture.
+
+- Some furniture might not fit into all types of cars, especially smaller ones.
+
+- Sometimes people lie about being at home, so there’s a possiblity that the seller is not at home waiting for furniture pickup when the driver arrives, and it wastes a lot of time.
+
+- It would be helpful if people can schedule ahead.
+
+Based on these critiques, we further improved our design.
+
+When the user clicks on the route of delivery, it will expand to a page of furniture details, including the name, picture, color, dimensions, and weight.
+
+On the product information page, the number of people required to carry the furniture will also be displayed, so that drivers will get prepared for carrying large furnitures. This information is inputted by the seller, and the seller need to pay extra fees for requiring extra people.
+
+When someone registers to be a driver, he or she needs to enter the type of car he or she possesses. The app automaticaclly checks for the type of car required to deliver the furniture based on its dimensions, and will show a little green bar indicating that the driver’s car satisfies the requirement.
+
+### Final Design
+
+#### Desktop Interface
+
+![img]({{site.baseurl}}/img/projects/dispatch/dispatch-final-desktop-combined-1.jpg)
+
+![img]({{site.baseurl}}/img/projects/dispatch/dispatch-final-desktop-combined-2.jpg)
+
+#### Mobile Interface
+
+![img]({{site.baseurl}}/img/projects/dispatch/dispatch-final-mobile-combined-1.jpg)
+
+![img]({{site.baseurl}}/img/projects/dispatch/dispatch-final-mobile-combined-2.jpg)
+
+![img]({{site.baseurl}}/img/projects/dispatch/dispatch-final-mobile-combined-3.jpg)
+
+![img]({{site.baseurl}}/img/projects/dispatch/dispatch-final-mobile-combined-4.jpg)
+
+### Team Members
+
+[Mengyang Li](https://www.mengyang.space/), [Hannah Kang](http://www.hannahkang.com/)

@@ -1,5 +1,6 @@
 ---
 title: Hebo 2.0
+fulltitle: "Hebo 2.0: Post-Operative Care Assistant"
 subtitle: Post-Operative Care Assistant
 category: Accessibility for Older Adults
 layout: post

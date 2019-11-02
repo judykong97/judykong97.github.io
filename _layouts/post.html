@@ -15,10 +15,11 @@ layout: default
                     <div class="modal-body">
                         <h3>{{ page.fulltitle }}</h3>
                         <hr class="star-primary">
-                        <!-- <img src="/img/portfolio/{{ page.img }}" class="img-responsive img-centered" alt="{{ page.alt }}">
+                        <p class="text-muted">{{ page.description }}</p>
+                        <p class="text-muted"><i>{{ page.story }}</i></p>
                         <hr class="star-primary">
-                        <p>{{ page.description }}</p> -->
                         {{ content }}
+                        <br><br>
                         <a href="{{ site.baseurl }}/projects"><button type="button" class="btn btn-default"></i> Back to Projects</button></a>
                     </div>
                 </div>

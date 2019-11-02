@@ -1,17 +1,39 @@
 ---
 title: Scene
+fulltitle: "Scene: An Augmented Reality Gallery Tour Guide"
 subtitle: Augmented Reality Gallery Tour Guide
 category: Augmented Reality
 layout: post
-id: 6
 date: 2018-02-01
 img: scene.jpg
 thumbnail: scene-thumbnail.jpg
 alt: image-alt
 project-date: Feburary 2018
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
-
+description: In this project, we explored means to "tell the story behind the scene" through AR. Developed using VuforiaSDK and Unity, this mobile app recognizes art works in the camera view and displays text descriptions of it, such as title, author, background, etc. 
+story: This projected was created during TartanHacks 2017, and our team won the <b>Best Educational App</b> award with this project. 
 ---
 
-## This is some title
-This is some content
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/A-V3O89q-HI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+### Background
+
+When you walk into a museum, it may be very hard to understand the art works, especially if you don't have much of an art background. The short descriptions by the art works are sometimes too small to read from far away, but you don't want to block other people. What to do then?
+
+### Introduction
+
+Scene is a project that helps users understand art works with simple and straightforward augmented reality assistance. It helps you understand art works by storing a big number of art work descriptions in the database. Whenever you point your phone camera to an art work, it matches with the art works in our database, and displays the descriptions as text floating above the art work on your screen. In this way, you can have a full view of the art work without having to walk very close to look at the descriptions on the wall.
+
+![img]({{site.baseurl}}/img/projects/scene/scene-demo.jpg)
+
+### Implementation
+
+This project was developed using the Vuforia AR SDK. The on-screen interactions were created in Unity and C#. We used the Vuforia built-in image recognition feature to match with the pictures of art works we store in the database, and then display relevant text we grabbed from Wikipedia to the users.
+
+### Tools & Technologies
+
+Google Cloud Platform, Unity, Vuforia SDK, C#
+
+### Team Members
+
+[Oshadha Gunasekara](https://www.linkedin.com/in/oshadhagunasekara), [Peter (Wenze) Shi](https://www.linkedin.com/in/wenze-shi-15920b15b/), [Ziyang Wang](https://www.linkedin.com/in/ziyang-wang-cmu/)
