@@ -63,11 +63,11 @@ layout: default
             {% endif %}
         {% endfor %}
         </div>
-        <!-- Tangible -->
-        <h3 class="section-heading">Tangibles & Morphing Materials</h3>
+        <!-- Data & ML -->
+        <h3 class="section-heading">Data & Machine Learning</h3>
         <div class="row">
         {% for post in sorted %}
-            {% if post.path contains 'tangible' %}
+            {% if post.path contains 'data-ML' %}
                 <div class="col-md-4 col-sm-6 portfolio-item">
                     <!-- <a href="#portfolioModal{{ post.modal-id }}" class="portfolio-link" data-toggle="modal"> -->
                     <a href="{{ post.url }}" class="portfolio-link" data-toggle="modal">
@@ -87,11 +87,11 @@ layout: default
             {% endif %}
         {% endfor %}
         </div>
-        <!-- Data & ML -->
-        <h3 class="section-heading">Data & Machine Learning</h3>
+        <!-- Tangible -->
+        <h3 class="section-heading">Exploring Tangibles</h3>
         <div class="row">
         {% for post in sorted %}
-            {% if post.path contains 'data-ML' %}
+            {% if post.path contains 'tangible' %}
                 <div class="col-md-4 col-sm-6 portfolio-item">
                     <!-- <a href="#portfolioModal{{ post.modal-id }}" class="portfolio-link" data-toggle="modal"> -->
                     <a href="{{ post.url }}" class="portfolio-link" data-toggle="modal">

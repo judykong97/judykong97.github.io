@@ -13,4 +13,3 @@ description: In this project, we designed and prototyped "second skin" for campi
 story: This project is the final project for the course 05-899 Morphing Materials From Programmable to Learning Matter.
 ---
 
-## Title
