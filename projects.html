@@ -88,16 +88,14 @@ layout: default
         {% endfor %}
         </div>
         <!-- Tangible -->
-        <h3 class="section-heading">Exploring Tangibles</h3>
+        <!-- <h3 class="section-heading">Exploring Tangibles</h3>
         <div class="row">
         {% for post in sorted %}
             {% if post.path contains 'tangible' %}
                 <div class="col-md-4 col-sm-6 portfolio-item">
-                    <!-- <a href="#portfolioModal{{ post.modal-id }}" class="portfolio-link" data-toggle="modal"> -->
                     <a href="{{ post.url }}" class="portfolio-link" data-toggle="modal">
                         <div class="portfolio-hover">
                             <div class="portfolio-hover-content">
-                                <!-- <i class="fa fa-plus fa-3x"></i> -->
                                 <p.large class="text-light">{{ post.subtitle }}</p>
                             </div>
                         </div>
@@ -110,6 +108,6 @@ layout: default
                 </div>
             {% endif %}
         {% endfor %}
-        </div>
+        </div> -->
     </div>
 </section>

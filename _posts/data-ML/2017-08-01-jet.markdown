@@ -1,0 +1,19 @@
+---
+title: Jet.com Internship
+fulltitle: "Jet.com Internship: Automated Customer Feedback Analysis"
+subtitle: Auto-Analyzing Customer Feedback
+category: Data Mining
+layout: post
+date: 2017-08-01
+img: jet.jpg
+thumbnail: jet-thumbnail.jpg
+alt: image-alt
+project-date: August 2017
+description: 
+story: This project was my intern project at Jet.com and was selected to be one of the 5 highlighted intern projects of that summer. 
+---
+
+
+[Jet.com](https://jet.com/) is an e-commerce company founded in 2014 and later acquired by Walmart. During my summer internship at Jet.com (summer 2017), I designed and created the company's first **automated pipeline to analyze customer calls and emails and provide meaningful insights**.
+
+The pipeline first transforms audio files of customer call recordings into text transcripts through speech-to-text APIs, and preprocesses these text transcripts as well as customer emails by cleaning up the data and removing customers' PII (personal identifiable information) from the text. Then it runs sentiment analysis and extracts keywords from the text, and identifies relevant products mentioned in the calls and emails. These information are automatically stored to the company's database and can thus be used to generate summaries of products and issues mentioned in customer calls and emails over time. 
