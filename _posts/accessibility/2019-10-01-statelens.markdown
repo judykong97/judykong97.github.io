@@ -27,3 +27,54 @@ We identified two major challenges in using dynamic touchscreen interfaces for v
 
 ### System Design
 
+![img]({{site.baseurl}}/img/projects/statelens/system-design.png)
+
+##### **Constructing state diagram**
+
+StateLens uses a combination of Screen Detection, SURF and OCR to match the current video frame with reference states and decide whether to send to crowdsourcing pipeline and add it as new state.
+
+##### **Generating path from user-specified task**
+
+With user-specified task through conversational agent, StateLens generates a target (state, button) sequence to achieve the task.
+
+##### **Identifying current screen**
+
+StateLens uses SURF combined with detected user interaction points from camera to identify which state the user is currently on.
+
+##### **Providing guidance to complete task**
+
+Based on the detected state, StateLens reads out screen description and guide users to move their finger towards the target button.
+
+![img]({{site.baseurl}}/img/projects/statelens/example-diagram.jpg)
+
+#### Conversational Agent
+
+The agent can be automatically generated from the state diagram of the interface and allows users to pre-specify the task to perform.
+
+![img]({{site.baseurl}}/img/projects/statelens/conversational-agent.jpg)
+
+#### 3D-Printed Accessories
+
+The 3D-printed accessories allow users to explore touchscreen interfaces without accidentally triggering touches and then touch when they need to.
+
+![img]({{site.baseurl}}/img/projects/statelens/design-interventions.png)
+
+### Results
+
+In our technical evaluation, StateLens achieved a relatively stable error rate of 5% in identifying the current state. The matching time is also fairly stable for different sizes of interfaces around 0.2 seconds.
+
+In our user study, users spent an average of 110.1 seconds  to complete a task and the overall task completion rate was 94.7%. In subjective rating, users reported the StateLens app to be  easy to learn (5.5/7), comfortable to use (5.6/7), and very useful (6.1/7). They also found the audio feedback was in real-time and accurate (6.1/7).
+
+#### State diagram construction accuracy by interface
+
+![img]({{site.baseurl}}/img/projects/statelens/result-table.png)
+
+#### Matching scalability and robustness
+
+![img]({{site.baseurl}}/img/projects/statelens/scalability-robustness.jpg)
+
+
+
+
+
+
