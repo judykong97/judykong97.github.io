@@ -16,7 +16,7 @@ story: This projected was created during TartanHacks 2017, and our team won the 
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/A-V3O89q-HI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-### Background
+### Motivation
 
 When you walk into a museum, it may be very hard to understand the art works, especially if you don't have much of an art background. The short descriptions by the art works are sometimes too small to read from far away, but you don't want to block other people. What to do then?
 

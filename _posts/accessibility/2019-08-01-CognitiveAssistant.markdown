@@ -9,12 +9,10 @@ img: cognitiveassistant.jpg
 thumbnail: cognitiveassistant-thumbnail.jpg
 alt: image-alt
 project-date: August 2019
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
-
+description: I initiated and started leading this project this summer at the beginning of my master's program, and have been actively working on it since then. 
+story: This work has been accepted to and presented at demos of ASSETS 2019, and I'm currently working on a paper submission of the work to IMWUT.
 ---
 
-<img src="/img/portfolio/CognitiveAssistant.jpg" class="img-responsive img-centered" alt="">
+This work is in submission - stay tuned for more details! 
 
-## Title
-
-Text
+If you are interested in our work, check out the short description (Demo #53) in the [accepted demos](https://assets19.sigaccess.org/accepted_posters.html#wednesday_demos) of ASSETS 2019 and our [poster]({{site.baseurl}}/files/projects/cogassist/poster.pdf). 

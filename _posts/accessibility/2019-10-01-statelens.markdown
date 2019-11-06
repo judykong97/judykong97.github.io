@@ -73,6 +73,10 @@ In our user study, users spent an average of 110.1 seconds  to complete a task a
 
 ![img]({{site.baseurl}}/img/projects/statelens/scalability-robustness.jpg)
 
+<br><br>
+
+For more details, please check out our [paper]({{site.baseurl}}/files/papers/StateLens_UIST2019_Accessible.pdf) and [poster]({{site.baseurl}}/files/projects/statelens/poster.pdf).
+
 
 
 
