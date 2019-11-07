@@ -13,7 +13,7 @@ description: In this project, my teammates and I conducted extensive user resear
 story: This project was my <b>Capstone Project</b> for the HCI undergrad secondary major at CMU, advised by <a href="https://hcii.cmu.edu/people/karen-kornblum-berntsen">Prof. Karen Berntsen</a> and <a href="http://www.cs.cmu.edu/~aleven/">Prof. Vincent Aleven</a>. 
 ---
 
-<iframe width="100%" height="935" src="//invis.io/9YRSW74BE2A" frameborder="0" allowfullscreen></iframe>
+<iframe id="interactive-prototype" width="100%" height="935" src="//invis.io/9YRSW74BE2A" frameborder="0" allowfullscreen></iframe>
 <p align="center">Try out our interactive prototype!</p>
 
 ### Background
@@ -62,11 +62,54 @@ We summarized our takeaways from user research into the following key insights:
 
 ### Storyboards
 
-### Ideation
+![img]({{site.baseurl}}/img/projects/hebo/storyboards.png) 
+
+### Lo-Fi Prototype
+
+![img]({{site.baseurl}}/img/projects/hebo/lo-fi.png)
+
+### Mid-Fi Prototype
+
+![img]({{site.baseurl}}/img/projects/hebo/mid-fi-0.png)
+![img]({{site.baseurl}}/img/projects/hebo/mid-fi-1.png)
+![img]({{site.baseurl}}/img/projects/hebo/mid-fi-2.png)
+![img]({{site.baseurl}}/img/projects/hebo/mid-fi-3.png)
+
 
 ### Iterations & Refinements
 
+To test out our mid-fi prototype and improve the design, our team conducted three rounds of user testing in the UPMC Falk clinic. We tested the prototype with various different potential user groups of the assistant, including clinic staff (residential doctors, physician assistants, and nurses) as well as patients. During user testing, we set different scenarios for our users, including being discharged from the clinic, changing dressing at home for the first time, concerned about bleeding, and feeling pain.
+
+Overall, we received very positive feedback during the three rounds of user testing in the clinic. Except for feedbacks on the design of the assistant, we’ve also put a lot of focus on the accuracy of medical terms and processes to ensure that the assistant gives correct instructions and suggestions, and received valuable feedback during user testing.
+
+Based the feedback we received during user testing, our refinements mainly focused on:
+
+- Improving usability and accessibility of the app
+
+- Adding more feedforward and feedback to make the app more intuitive
+
+- Adding conversational features to allow hands-free interactions
+
+- Changing certain wordings to make sure medical terms and demonstrations are accurate
+
+- Having detailed stepwise breakdown of processes to guide users step by step, with explanations on each step
+
+- Establishing trust by giving encouraging feedback to users
+
+- Making action terms clearer and adding more error prevention features
+
+### User Testing Quotes
+
+##### *"Pretty straightforward. Easy to follow."*
+##### *"I really like the pictures in dressing change tutorial."*
+##### *"It’s good that the App is simple, especially for elderly users."*
+##### *"The instructions are succinct."*
+
 ### Final Design
+
+<!-- [Click here](#interactive-prototype) to go back to the interactive prototype at the beginning of this article, or check out our [InVision App](https://invis.io/YFRSW73NV27/) for this project. -->
+
+<iframe id="interactive-prototype" width="100%" height="935" src="//invis.io/9YRSW74BE2A" frameborder="0" allowfullscreen></iframe>
 
 For more details, please check out our [research report]({{site.baseurl}}/files/projects/hebo/Research%20Report.pdf) and [final report]({{site.baseurl}}/files/projects/hebo/Final%20Report.pdf).
 
