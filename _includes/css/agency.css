@@ -366,16 +366,16 @@ section h2.section-subheading {
 }
 
 section h3 {
-    margin-top: 30px;
-    margin-bottom: 30px;
+    margin-top: 10px;
+    margin-bottom: 10px;
     font-weight: 32px;
 }
 
 section h3.section-subheading {
-    margin-bottom: 40px;
+    margin-bottom: 10px;
     text-transform: none;
     font-family: {{ site.data.template.font.secondary }};
-    font-size: 24px;
+    font-size: 20px;
     font-style: italic;
     font-weight: 400;
 }
