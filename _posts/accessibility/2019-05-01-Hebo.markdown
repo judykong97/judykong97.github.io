@@ -13,5 +13,75 @@ description: In this project, my teammates and I conducted extensive user resear
 story: This project was my <b>Capstone Project</b> for the HCI undergrad secondary major at CMU, advised by <a href="https://hcii.cmu.edu/people/karen-kornblum-berntsen">Prof. Karen Berntsen</a> and <a href="http://www.cs.cmu.edu/~aleven/">Prof. Vincent Aleven</a>. 
 ---
 
-## This is some title
-This is some content
+<iframe width="100%" height="935" src="//invis.io/9YRSW74BE2A" frameborder="0" allowfullscreen></iframe>
+<p align="center">Try out our interactive prototype!</p>
+
+### Background
+
+After a patient undergoes Mohs surgery, they typically have questions and concerns about their postoperative treatment. Before and after surgery they are given explicit instructions on how to care for themselves and also provided with an instruction sheet to take home with them. Unfortunately, many patients struggle to remember and to interpret the basic instructions that are provided to them. Therefore, patients require support from clinical staff over the phone or in the clinic to address common concerns. Moreover, staff members often have to dedicate significant portions of time to communicate information already provided to the patients. 
+
+### Stakeholders
+
+We created a stakeholder map dividing our stakeholders into several parties, based on their interactions with patients in post-operative care. The surgeon who carries out the surgery; UPMC staff who help patients change dressing, call patients for check-up and answer questions; patients’ immediate family, extended family, and friends and community who might take care of them during the post-operative process. 
+
+![img]({{site.baseurl}}/img/projects/hebo/stakeholder.png)
+
+### User Research
+
+We did job shadowing and conducted interviews with both clinic staff and patients to better understand their needs and existing challenges in the process. To better understand their feelings, we included activities such as card sorting in our interview process. 
+
+![img]({{site.baseurl}}/img/projects/hebo/card-sorting.png)
+
+We then came up with a journey map for nurses and patients, which helped us better understand the goals and needs of these stakeholders. We looked at the surgery procedure by the six phases: diagnosis, pre-surgery, during surgery, right after surgery, 48-hour post-surgery, one-week check-up and later. For each phase, we discussed patients’ emotions and thoughts, their tasks and touchpoints, in order to better understand each part of the surgery process and discover opportunities. Based on that, we used sticky notes to discover existing pain points in different phases of surgery, especially the post surgery phases.
+
+![img]({{site.baseurl}}/img/projects/hebo/journey-map.jpg)
+
+To better understand patients' experiences during post-operative care at home, specifically during the dressing change process, we did further empirical research and tried to change wound dressing for ourselves like patients after the Mohr's surgery. 
+
+![img]({{site.baseurl}}/img/projects/hebo/empirical-research.png)
+
+### Takeaways from User Research
+
+We summarized our takeaways from user research into the following key insights: 
+
+- Patients need more help when they start with hands-on post-operative care on their own. 
+
+- Patients need to be assured that what they are doing / feeling is normal. 
+
+- Patients' feelings and emotions affect their post-op decisions.
+
+- Patients want personalized care. 
+
+- Visual representations and written out text are important for post-operative care for the predominant demographic of skin cancer patients. 
+
+- Some patients hesitate to seek for help from family/staff due to personal reasons. (e.g. being too independent, not wanting to burden family, thinking they are probably fine)
+
+- Patients want immediate response to their questions while clinic staff don’t want their workflow to be interrupted. 
+
+- Patients require simpler ways to find post-operative care dos and don’ts.
+
+<!-- ### Ideation
+
+### Lo-Fi Prototype
+
+### Mid-Fi Prototype
+
+### Hi-Fi Prototype -->
+
+### Final Design
+
+For more details, please check out our [research report]({{site.baseurl}}/files/projects/hebo/Research%20Report.pdf) and [final report]({{site.baseurl}}/files/projects/hebo/Final%20Report.pdf).
+
+### Team Members
+
+[Nadia Razek](https://www.linkedin.com/in/nadia-razek), [Anyi Diao](https://www.linkedin.com/in/anyi-diao-8a7544130), [Ying Chen](https://www.linkedin.com/in/yingc1)
+
+
+
+
+
+
+
+
+
+
