@@ -1,7 +1,7 @@
 ---
 title: Dispatch
 fulltitle: "Dispatch: A Cross-Platform Responsive Peer Economy Solution to Shipping Problems in Furniture Exchange"
-subtitle: Peer-to-Peer Furniture Shipping Solution
+subtitle: Peer-to-Peer Shipping Solution
 category: Mobile
 layout: post
 date: 2017-09-01

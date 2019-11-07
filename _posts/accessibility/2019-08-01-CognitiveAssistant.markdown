@@ -1,7 +1,7 @@
 ---
 title: CognitiveAssistant
 fulltitle: "Supporting Older Adults in Using Complex User Interfaces with Augmented Reality"
-subtitle: Supporting Older Adults in Using Complex User Interfaces with Augmented Reality
+subtitle: AR User Manual for Older Adults
 category: Accessibility for Older Adults
 layout: post
 date: 2019-08-01

@@ -1,7 +1,7 @@
 ---
 title: Scene
 fulltitle: "Scene: An Augmented Reality Gallery Tour Guide"
-subtitle: Augmented Reality Gallery Tour Guide
+subtitle: AR Gallery Tour Guide
 category: Augmented Reality
 layout: post
 date: 2018-02-01

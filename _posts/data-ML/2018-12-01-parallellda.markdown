@@ -1,7 +1,7 @@
 ---
 title: Parallel LDA
 fulltitle: "Implementing Parallalized LDA for Text Classification using OpenMPI"
-subtitle: Implementing Parallalized LDA for Text Classification using OpenMPI
+subtitle: Parallalized Text Classification
 category: Machine Learning, Text Mining
 layout: post
 date: 2018-12-01
