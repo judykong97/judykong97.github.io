@@ -60,13 +60,11 @@ We summarized our takeaways from user research into the following key insights:
 
 - Patients require simpler ways to find post-operative care dos and don’ts.
 
-<!-- ### Ideation
+### Storyboards
 
-### Lo-Fi Prototype
+### Ideation
 
-### Mid-Fi Prototype
-
-### Hi-Fi Prototype -->
+### Iterations & Refinements
 
 ### Final Design
 
