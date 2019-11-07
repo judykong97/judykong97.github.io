@@ -1,0 +1,116 @@
+---
+title: Kara
+fulltitle: "Kara: A Conversational UI for Group Ordering"
+subtitle: Simplifying Group Ordering
+category: Conversational UI
+layout: post
+date: 2017-06-01
+img: kara.jpg
+thumbnail: kara-thumbnail.jpg
+alt: image-alt
+project-date: June 2017
+description: In this project, my teammates and I designed a conversational user interface for meal ordering for a group of people, and can support various scenarios such as home parties, company meetings, field trips, etc.
+---
+
+### Introduction
+
+The name of our CUI product is “Kara“, which sounds like a name of a friend and is easy to pronounce. 
+
+To design a CUI that simplifies group ordering process, we first researched on existing CUIs on the market and explored various scenarios that people might use them. With our initial version of our group ordering CUI, we kept on doing experience prototyping and made storyboards to explore more user needs and added more features to our design.
+
+### Concept Video
+
+<iframe src="https://www.youtube.com/embed/If4x5U_RP68" width="100%" height="400" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+### Ecosystem Collection & Competitive Analysis
+
+To better understand the current market, we did a competitive analysis by looked at four existing conversational UI products currently on the market: Google Home, Microsoft Cortana, Apple Siri, and Amazon Alexa.
+We created a competitive analysis matrix that compares the unique features, strengths, weaknesses, speech recognition performance, and voice friendliness of the four CUI products. More closely related to our project, we also checked whether or not the four products support food ordering, and where do they order from.
+
+It turned out that Microsoft Cortana and Apple Siri do not take food ordering at all, and Google Home and Amazon Alexa both only support a very limited range of restaurants, such as Domino’s.
+We also looked at the currently existing CUIs and listed out their user flow as a reference for our food ordering CUI design.
+
+![img]({{site.baseurl}}/img/projects/kara/competitive-analysis.jpg)
+
+### Scenarios
+
+We brainstormed on different scenarios where people might be needing our CUI to order food, and wrote a short story to describe the context for each of the scenarios. The scenarios we discussed about are as below.
+
+- A student working on his/her homework at school at midnight
+
+- A person working late at home
+
+- A party where a lot of people order to- gether
+
+- People working at a startup in a meeting ordering food
+
+- Patients in a hospital hoping to get food
+
+- Sick people who cannot get up easily
+
+- A person on a diet trying to control his/ her calories intake everyday
+
+- A person with a healthy lifestyle always asking for calories before eating
+
+- Someone allergic to a type of food who wants to avoid that ingredient
+
+- Someone craving for a certain type of dish, like Japanese food or Korean food
+
+- A person ordering food while in a car
+
+With the information we got from our research, we decided to work on a CUI that takes group orders.
+
+We name our CUI Kara, since it sounds like a name of a friend and is very easy to pronounce. We then listed out some activities that we want Kara to support.
+
+### Experience Prototyping
+
+We went through experience prototyping to figure out more user needs that we didn’t discover in our design process. We asked a few other groups to act in our scenario and recorded what questions they asked and what confusion they had.
+
+During experience prototypring, some people were confused about the food options - “Does it only have pizza ordering, or does it have something else?“; some people raised allergy problems and asked Kara to check for ingredients of food; some people asked for suggestions, like “How should I order?“ or more specific concerns like “I think there are too many chickens in the group meal.“
+
+![img]({{site.baseurl}}/img/projects/kara/experience-prototyping.jpg)
+
+### Critique & Refinements
+
+Based on class critique, we refined our design and added some features that we didn’t consider.
+
+- Personality (being sassy, hahaha, that’s what I do)
+
+- Users not pronouncing correctly and Kara trying to find what they actually mean
+
+- Vegetarion option; allergy stuffs
+
+- More prompts when users are confused or forget what they are doing
+
+- Asking for something not on the menu causes Kara to look for other restaurants
+
+- Remind user after a minute in case they forget (hey, are you still there? Let me know when you want to continue with it, etc.)
+
+- If user doesn’t know exactly how many people are in the group, she uses the upper bound
+
+- Prepared to answer “stupid questions” (how do I pay)
+
+- Searching on Google for general questions (what is Yelp)/One-sentence description (what is this place)
+
+Summarizing our findings in the experience protyping and during critique, we revised the range of activities we want Kara to support, added small talks to our design to make Kara more humorous, and included error handling in case Kara has difficulty handling user input.
+
+### Storyboard
+
+![img]({{site.baseurl}}/img/projects/kara/storyboard-0.jpg)
+![img]({{site.baseurl}}/img/projects/kara/storyboard-1.jpg)
+
+### Flowchart
+
+To get prepared for the flowchart of our final design, we went through our refined pre-attentives and attentives, and listed out the utterances and responses for each attentive using stickers.
+
+In the “order food“ attentive, we included multiple features of setting delivery time, recommending food types and restaurants, reminding of utensils, reminding of drinks, detecting change in location using GPS, etc.
+
+![img]({{site.baseurl}}/img/projects/kara/flowchart-0.jpg)
+
+### Concept Video Making
+
+![img]({{site.baseurl}}/img/projects/kara/concept-video.jpg)
+
+### Team Members
+
+[Bobbie Soques](https://www.bobbie.soques.net/), [Qin Bian](http://qinbian.info/)

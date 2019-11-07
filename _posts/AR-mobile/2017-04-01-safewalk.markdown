@@ -1,0 +1,36 @@
+---
+title: SafeWalk
+fulltitle: "SafeWalk: A Mobile App for Parents to Keep Track of Kids’ Safety on the Way Home."
+subtitle: Safety Tracking for Parents
+category: Mobile
+layout: post
+date: 2017-04-01
+img: safewalk.jpg
+thumbnail: safewalk-thumbnail.jpg
+alt: image-alt
+project-date: April 2017
+description: In this project, we designed a mobile app for parents to track their kids' safety on the way home, and I worked on the front end development of the app using Android Studio, as well as integrating other parts done by the other team members.  
+story: This projected was created during HackPrinceton 2016, and our team was selected to present it at the final showcase (about 10 teams in total). 
+---
+
+### Motivation
+
+Safety of kids on their way to school and on their way home has always been a big concern for parents. Our app provides a way for parents to track kids' safety on their way using location of kids provided by the Google Maps API.
+
+### Implementation
+
+We implemented the app using Android Studio and made use of the Google Maps API to retrive real-time location of users. Whenever a child starts walking home from school, they can click on the "start" button and we will send the location information of user to our back-end database. Based on the destination location entered by the user, we use the Google Maps API to provide an estimate of how much time is needed along the way. Our backend will send the parent an email when the walk starts or when the walk takes much longer than expected. We also designed a "help" button on the main page so that the kid can click on the button in case of emergency and our backend will immediately send an email to the parents to notify them.
+
+![img]({{site.baseurl}}/img/projects/safewalk/work.jpg)
+
+### Tools & Technologies
+
+Android Studio, Google Maps API, JSON. 
+
+### Code
+
+[SafeWalk-Android](https://github.com/judykong97/SafeWalk-Android)
+
+### Team Members
+
+[Felix Merk](https://www.linkedin.com/in/felixmerk), [Shaan Menon](https://www.linkedin.com/in/shaan-menon-53476aa1), [John Bucknam](https://www.linkedin.com/in/jbucknam)
