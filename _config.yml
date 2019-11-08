@@ -87,6 +87,3 @@ description: "Judy Kong's Personal Website"
 # Build settings
 markdown: kramdown
 permalink: /projects/:title
-
-url: judykong97.github.io
-baseurl: 
