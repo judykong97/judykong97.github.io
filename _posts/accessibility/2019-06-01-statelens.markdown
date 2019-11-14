@@ -4,11 +4,11 @@ fulltitle: "StateLens: A Reverse Engineering Solution to Making Existing Dynamic
 subtitle: Making Dynamic Touchscreen Interfaces Accessible
 category: Accessibility for Visually Impaired
 layout: post
-date: 2019-10-01
+date: 2019-06-01
 img: statelens.jpg
 thumbnail: statelens-thumbnail.jpg
 alt: image-alt
-project-date: October 2019
+project-date: June 2019
 description: I took a big part in this 2-year long project as the second author of the paper, and contributed substantially in every phase of the project - from brainstorming, to the ideation and implementation of the computer vision pipeline, then to iterations and refinements, and finally technical evaluations and user study. 
 story: This work has been published at <b>UIST 2019</b>. 
 ---
