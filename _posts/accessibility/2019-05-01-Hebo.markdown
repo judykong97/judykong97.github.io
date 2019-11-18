@@ -100,16 +100,7 @@ Based the feedback we received during user testing, our refinements mainly focus
 
 ### User Testing Quotes
 
-##### *"Pretty straightforward. Easy to follow."*
-##### *"I really like the pictures in dressing change tutorial."*
-##### *"It’s good that the App is simple, especially for elderly users."*
-##### *"The instructions are succinct."*
-
-### Final Design
-
-<!-- [Click here](#interactive-prototype) to go back to the interactive prototype at the beginning of this article, or check out our [InVision App](https://invis.io/YFRSW73NV27/) for this project. -->
-
-<iframe id="interactive-prototype" width="100%" height="935" src="//invis.io/9YRSW74BE2A" frameborder="0" allowfullscreen></iframe>
+![img]({{site.baseurl}}/img/projects/hebo/quotes.png)
 
 For more details, please check out our [research report]({{site.baseurl}}/files/projects/hebo/Research%20Report.pdf) and [final report]({{site.baseurl}}/files/projects/hebo/Final%20Report.pdf).
 
