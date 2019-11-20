@@ -1,5 +1,5 @@
 ---
-title: StateLens
+title: statelens
 fulltitle: "StateLens: A Reverse Engineering Solution to Making Existing Dynamic Touchscreens Accessible"
 authors: Anhong Guo, <b>Junhan Kong</b>, Michael Rivera, Frank F. Xu, Jeffrey P. Bigham
 conference: UIST 2019
