@@ -10,7 +10,7 @@ layout: default
                 <h2 class="section-heading">Projects</h2>
                 <div class="row">
                     <div class="col-md-1 col-sm-0"></div>
-                    <div class="col-md-10 col-sm-12"><p class="text-muted">I have a wide span of skills and interests. I see and utilize the power of artificial intelligence in solving accessibility problems, yet openly learn and explore by collaborating with experts in design, sensing, fabrication, etc.</p><p class="text-muted">I love ideating, modeling, designing, coding, as well as prototyping.</p><p class="text-muted"><b>A couple projects on haptics and sensing & morphing matter coming soon!</b></p></div>
+                    <div class="col-md-10 col-sm-12"><p class="text-muted">I have a wide span of skills and interests. I see and utilize the power of artificial intelligence in solving accessibility problems, yet openly learn and explore by collaborating with experts in design, sensing, fabrication, etc.</p><p class="text-muted">I love ideating, modeling, designing, coding, as well as prototyping.</p><p class="text-muted"><b>A couple projects on wearable devices & morphing matter just updated!</b></p></div>
                 </div>
             </div>
         </div>
@@ -37,6 +37,28 @@ layout: default
 	                </div>
 	            </div>
         	{% endif %}
+        {% endfor %}
+        </div>
+        <!-- Wearables+ -->
+        <h3 class="section-heading">Wearables+<h5>(Just Updated!)</h5></h3>
+        <div class="row">
+        {% for post in sorted %}
+            {% if post.path contains 'tangible' %}
+                <div class="col-md-4 col-sm-6 portfolio-item">
+                    <a href="{{ post.url }}" class="portfolio-link" data-toggle="modal">
+                        <div class="portfolio-hover">
+                            <div class="portfolio-hover-content">
+                                <p.large class="text-light">{{ post.subtitle }}</p>
+                            </div>
+                        </div>
+                        <img src="/img/portfolio/{{ post.thumbnail }}" class="img-responsive img-centered" alt="">
+                    </a>
+                    <div class="portfolio-caption">
+                        <h4>{{ post.title }}</h4>
+                        <p class="text-muted">{{ post.category }}</p>
+                    </div>
+                </div>
+            {% endif %}
         {% endfor %}
         </div>
         <!-- AR & Mobile -->
@@ -87,27 +109,6 @@ layout: default
             {% endif %}
         {% endfor %}
         </div>
-        <!-- Tangible -->
-        <!-- <h3 class="section-heading">Exploring Tangibles</h3>
-        <div class="row">
-        {% for post in sorted %}
-            {% if post.path contains 'tangible' %}
-                <div class="col-md-4 col-sm-6 portfolio-item">
-                    <a href="{{ post.url }}" class="portfolio-link" data-toggle="modal">
-                        <div class="portfolio-hover">
-                            <div class="portfolio-hover-content">
-                                <p.large class="text-light">{{ post.subtitle }}</p>
-                            </div>
-                        </div>
-                        <img src="/img/portfolio/{{ post.thumbnail }}" class="img-responsive img-centered" alt="">
-                    </a>
-                    <div class="portfolio-caption">
-                        <h4>{{ post.title }}</h4>
-                        <p class="text-muted">{{ post.category }}</p>
-                    </div>
-                </div>
-            {% endif %}
-        {% endfor %}
-        </div> -->
+        
     </div>
 </section>

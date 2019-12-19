@@ -10,7 +10,7 @@ thumbnail: cognitiveassistant-thumbnail.jpg
 alt: image-alt
 project-date: August 2019
 description: I initiated and started leading this project this summer at the beginning of my master's program, and have been actively working on it since then. 
-story: This work has been accepted to and presented at demos of ASSETS 2019, and I'm currently working on a paper submission of the work.
+story: This work has been accepted to and presented at demos of ASSETS 2019, and I'm currently working on a paper submission of the work to IMWUT.
 ---
 
 Stay tuned for more details! 
