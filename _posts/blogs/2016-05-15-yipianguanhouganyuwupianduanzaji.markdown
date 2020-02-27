@@ -1,5 +1,5 @@
 ---
-articletitle: 一篇观后感与五篇短杂记（Spring 2016）
+articletitle: 一篇观后感与五篇短杂记
 permalink: /blogs/:title
 layout: blog
 date: 2016-05-15
