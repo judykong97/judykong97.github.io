@@ -1,0 +1,23 @@
+---
+layout: feed
+---
+<section id="portfolio" class="bg-light-gray">
+    <div class="container">
+            <div class="row">
+                <div class="col-lg-8 col-lg-offset-2">
+                    <div class="modal-body">
+                        <h3>{{ page.articletitle }}</h3>
+                        <h5 class="text-muted" style="margin-bottom: 40px">Written on {{ page.written }}</h5>
+                        {{ content }}
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-lg-8 col-lg-offset-2">
+                    <div class="modal-body">
+                        <a href="{{ site.baseurl }}/blogs"><button type="button" class="btn btn-default"></i> Back to Blogs</button></a>
+                    </div>
+                </div>
+            </div>
+    </div>
+</section>
