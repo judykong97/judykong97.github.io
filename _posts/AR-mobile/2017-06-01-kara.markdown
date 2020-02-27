@@ -1,5 +1,6 @@
 ---
 title: Kara
+permalink: /projects/:title
 fulltitle: "Kara: A Conversational UI for Group Ordering"
 subtitle: Simplifying Group Ordering
 category: Conversational UI

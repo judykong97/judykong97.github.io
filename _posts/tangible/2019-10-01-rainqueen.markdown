@@ -1,5 +1,6 @@
 ---
 title: Rain Queen
+permalink: /projects/:title
 fulltitle: "Rain Queen: Heat-Sensitive Drag Queen Camping with Morphing Materials"
 subtitle: Heat-Sensitive Drag Queen Camping Technology
 category: Morphing Matter, Inclusive Design

@@ -1,5 +1,6 @@
 ---
 title: Measure & Match
+permalink: /projects/:title
 fulltitle: "Measure & Match: Smart Furniture Retail for Construction Junction"
 subtitle: Smart Furniture Retail
 category: Augmented Reality

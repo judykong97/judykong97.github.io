@@ -1,5 +1,6 @@
 ---
 title: Invisible Piano
+permalink: /projects/:title
 fulltitle: "Invisible Piano: A Wearable Musical Instrument"
 subtitle: Wearable Musical Instrument
 category: Wearable Devices

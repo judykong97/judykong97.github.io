@@ -1,5 +1,6 @@
 ---
 title: CognitiveAssistant
+permalink: /projects/:title
 fulltitle: "Supporting Older Adults in Using Complex User Interfaces with Augmented Reality"
 subtitle: AR User Manual for Older Adults
 category: Accessibility for Older Adults

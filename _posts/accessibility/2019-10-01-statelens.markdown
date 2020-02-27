@@ -1,5 +1,6 @@
 ---
 title: StateLens
+permalink: /projects/:title
 fulltitle: "StateLens: A Reverse Engineering Solution to Making Existing Dynamic Touchscreens Accessible"
 subtitle: Making Dynamic Touchscreen Interfaces Accessible
 category: Accessibility for Visually Impaired

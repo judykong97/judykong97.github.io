@@ -1,5 +1,6 @@
 ---
 title: SafeWalk
+permalink: /projects/:title
 fulltitle: "SafeWalk: A Mobile App for Parents to Keep Track of Kids’ Safety on the Way Home."
 subtitle: Safety Tracking for Parents
 category: Mobile

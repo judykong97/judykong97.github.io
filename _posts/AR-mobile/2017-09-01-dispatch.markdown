@@ -1,5 +1,6 @@
 ---
 title: Dispatch
+permalink: /projects/:title
 fulltitle: "Dispatch: A Cross-Platform Responsive Peer Economy Solution to Shipping Problems in Furniture Exchange"
 subtitle: Peer-to-Peer Shipping Solution
 category: Mobile

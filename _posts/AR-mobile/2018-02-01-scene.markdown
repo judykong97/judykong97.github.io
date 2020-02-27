@@ -1,5 +1,6 @@
 ---
 title: Scene
+permalink: /projects/:title
 fulltitle: "Scene: An Augmented Reality Gallery Tour Guide"
 subtitle: AR Gallery Tour Guide
 category: Augmented Reality

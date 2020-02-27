@@ -85,5 +85,5 @@ description: "Judy Kong's Personal Website"
   #   - line: Beverly Hills, CA 90210
 
 # Build settings
-markdown: kramdown
-permalink: /projects/:title
+# markdown: kramdown
+# permalink: /projects/:title

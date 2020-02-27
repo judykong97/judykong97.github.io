@@ -1,5 +1,6 @@
 ---
 title: Jet.com Internship
+permalink: /projects/:title
 fulltitle: "Jet.com Internship: Automated Customer Feedback Analysis"
 subtitle: Auto-Analyzing Customer Feedback
 category: Data Mining
