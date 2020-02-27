@@ -18,9 +18,9 @@ layout: feed
                 {% for post in sorted %}
                     {% if post.path contains 'blogs' %}
                     <li>
-                        <!-- <div class="timeline-image">
+                        <div class="timeline-image">
                             <img class="img-circle img-responsive" src="" alt="">
-                        </div> -->
+                        </div>
                         <div class="timeline-panel">
                             <div class="timeline-heading">
                                 <h4 class="subheading"><a href="{{ post.url }}">{{ post.articletitle }}</a></h4><h5 class="text-muted">{{ post.written }}</h5>

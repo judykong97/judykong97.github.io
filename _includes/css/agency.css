@@ -630,7 +630,7 @@ section h3.section-subheading {
 .timeline>li .timeline-image {
     z-index: 100;
     position: absolute;
-    left: 0;
+    left: 40px;
     width: 32px;
     height: 32px;
     margin-left: -16px;
