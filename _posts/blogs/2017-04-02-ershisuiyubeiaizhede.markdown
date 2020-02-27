@@ -1,5 +1,5 @@
 ---
-articletitle: 二十岁与被爱着的
+title: 二十岁与被爱着的
 permalink: /blogs/:title
 layout: blog
 date: 2017-04-02

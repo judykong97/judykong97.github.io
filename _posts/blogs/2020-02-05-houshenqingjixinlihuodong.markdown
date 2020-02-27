@@ -1,5 +1,5 @@
 ---
-articletitle: 后申请季心理活动
+title: 后申请季心理活动
 permalink: /blogs/:title
 layout: blog
 date: 2020-02-05

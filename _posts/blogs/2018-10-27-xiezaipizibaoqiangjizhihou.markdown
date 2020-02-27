@@ -1,5 +1,5 @@
 ---
-articletitle: 写在匹兹堡枪击之后（一）
+title: 写在匹兹堡枪击之后（一）
 permalink: /blogs/:title
 layout: blog
 date: 2018-10-27

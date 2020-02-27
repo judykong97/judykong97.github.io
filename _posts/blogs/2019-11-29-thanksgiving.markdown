@@ -1,5 +1,5 @@
 ---
-articletitle: 感恩节
+title: 感恩节
 permalink: /blogs/:title
 layout: blog
 date: 2019-11-29

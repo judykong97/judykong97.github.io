@@ -1,5 +1,5 @@
 ---
-articletitle: 从2016到2017
+title: 从2016到2017
 permalink: /blogs/:title
 layout: blog
 date: 2016-12-31

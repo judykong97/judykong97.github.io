@@ -1,5 +1,5 @@
 ---
-articletitle: 关于疫情
+title: 关于疫情
 permalink: /blogs/:title
 layout: blog
 date: 2020-01-22

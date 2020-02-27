@@ -1,5 +1,5 @@
 ---
-articletitle: 由《浅谈清华学风、课程内卷、特奖与其他》想到的
+title: 由《浅谈清华学风、课程内卷、特奖与其他》想到的
 permalink: /blogs/:title
 layout: blog
 date: 2019-11-02

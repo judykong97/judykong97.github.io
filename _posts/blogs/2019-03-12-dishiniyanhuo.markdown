@@ -1,5 +1,5 @@
 ---
-articletitle: 迪士尼烟火
+title: 迪士尼烟火
 permalink: /blogs/:title
 layout: blog
 date: 2019-03-12
