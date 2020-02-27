@@ -1,5 +1,5 @@
 ---
-articletitle: 为了不至于遗忘
+articletitle: 为了不至于遗忘（Fall 2017）
 permalink: /blogs/:title
 layout: blog
 date: 2017-12-16
