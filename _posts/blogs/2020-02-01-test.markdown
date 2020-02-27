@@ -1,9 +1,0 @@
----
-articletitle: 第一篇
-permalink: /blogs/:title
-layout: blog
-date: 2020-02-01
-written: Feb 1, 2020
----
-
-Something
