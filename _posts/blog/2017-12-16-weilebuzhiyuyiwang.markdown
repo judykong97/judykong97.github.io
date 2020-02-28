@@ -1,6 +1,6 @@
 ---
 title: 为了不至于遗忘
-permalink: /blogs/:title
+permalink: /blog/:title
 layout: blog
 date: 2017-12-16
 written: Dec 16, 2017

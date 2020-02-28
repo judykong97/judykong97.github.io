@@ -1,6 +1,6 @@
 ---
 title: 迪士尼烟火
-permalink: /blogs/:title
+permalink: /blog/:title
 layout: blog
 date: 2019-03-12
 written: Mar 12, 2019

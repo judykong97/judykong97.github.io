@@ -1,6 +1,6 @@
 ---
 title: 开年
-permalink: /blogs/:title
+permalink: /blog/:title
 layout: blog
 date: 2020-01-05
 written: Jan 5, 2020

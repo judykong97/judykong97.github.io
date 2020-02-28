@@ -1,6 +1,6 @@
 ---
 title: 关于疫情
-permalink: /blogs/:title
+permalink: /blog/:title
 layout: blog
 date: 2020-01-22
 written: Jan 22, 2020

@@ -1,6 +1,6 @@
 ---
 title: 你回家了，我在等你啊
-permalink: /blogs/:title
+permalink: /blog/:title
 layout: blog
 date: 2015-12-18
 written: Dec 18, 2015

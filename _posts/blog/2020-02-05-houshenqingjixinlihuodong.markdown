@@ -1,6 +1,6 @@
 ---
 title: 后申请季心理活动
-permalink: /blogs/:title
+permalink: /blog/:title
 layout: blog
 date: 2020-02-05
 written: Feb 5, 2020

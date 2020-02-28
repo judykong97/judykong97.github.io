@@ -1,6 +1,6 @@
 ---
 title: 感恩节
-permalink: /blogs/:title
+permalink: /blog/:title
 layout: blog
 date: 2019-11-29
 written: Nov 29, 2019

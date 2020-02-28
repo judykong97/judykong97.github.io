@@ -1,6 +1,6 @@
 ---
 title: 写在匹兹堡枪击之后（一）
-permalink: /blogs/:title
+permalink: /blog/:title
 layout: blog
 date: 2018-10-27
 written: Oct 27, 2018

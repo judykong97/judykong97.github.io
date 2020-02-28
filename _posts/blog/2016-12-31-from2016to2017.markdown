@@ -1,6 +1,6 @@
 ---
 title: 从2016到2017
-permalink: /blogs/:title
+permalink: /blog/:title
 layout: blog
 date: 2016-12-31
 written: Dec 31, 2016

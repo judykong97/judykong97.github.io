@@ -1,6 +1,6 @@
 ---
 title: 二十岁与被爱着的
-permalink: /blogs/:title
+permalink: /blog/:title
 layout: blog
 date: 2017-04-02
 written: Apr 2, 2017

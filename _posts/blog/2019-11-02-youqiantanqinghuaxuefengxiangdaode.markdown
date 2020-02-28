@@ -1,6 +1,6 @@
 ---
 title: 由《浅谈清华学风、课程内卷、特奖与其他》想到的
-permalink: /blogs/:title
+permalink: /blog/:title
 layout: blog
 date: 2019-11-02
 written: Nov 2, 2019

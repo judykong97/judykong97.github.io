@@ -1,6 +1,6 @@
 ---
 title: 一篇观后感与五篇短杂记
-permalink: /blogs/:title
+permalink: /blog/:title
 layout: blog
 date: 2016-05-15
 written: May 15, 2016
