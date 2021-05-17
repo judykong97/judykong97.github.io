@@ -1,5 +1,5 @@
 ---
-title: LGBTQ+，钢铁直女与特权
+title: LGBTQ+, 钢铁直女与特权
 permalink: /blog/:title
 layout: blog
 date: 2021-05-17
