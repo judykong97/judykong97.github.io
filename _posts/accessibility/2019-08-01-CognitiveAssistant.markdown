@@ -11,9 +11,7 @@ thumbnail: cognitiveassistant-thumbnail.jpg
 alt: image-alt
 project-date: August 2019
 description: I initiated and started leading this project this summer at the beginning of my master's program, and have been actively working on it since then. 
-story: This work has been accepted to and presented at demos of ASSETS 2019, and I'm currently working on a paper submission of the work to IMWUT.
+story: This work was part of my master's thesis. The work led to a demo at ASSETS 2019 and a paper published at SUI 2021.
 ---
 
-Stay tuned for more details! 
-
-If you are interested in our work, check out the short description (Demo #53) in the [accepted demos](https://assets19.sigaccess.org/accepted_posters.html#wednesday_demos) of ASSETS 2019 and our [poster]({{site.baseurl}}/files/projects/cogassist/poster.pdf). 
+Please feel free to check out our [poster](https://junhankong.com/assets/files/cognitiveassistant.pdf) at ASSETS 2019, our [full paper](https://junhankong.com/assets/files/tutoriallens.pdf) at SUI 2021 and my [master's thesis](http://reports-archive.adm.cs.cmu.edu/anon/2020/CMU-CS-20-116.pdf). 
