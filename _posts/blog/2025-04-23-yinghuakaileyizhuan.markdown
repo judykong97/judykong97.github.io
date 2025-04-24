@@ -2,8 +2,8 @@
 title: 樱花开了一转
 permalink: /blog/:title
 layout: blog
-date: 2025-04-25
-written: Apr 25, 2025
+date: 2025-04-23
+written: Apr 23, 2025
 ---
 
 来日本是一场蓄谋已久的大型刻奇表演。
