@@ -1,5 +1,5 @@
 ---
-title: “樱花开了一转”
+title: 樱花开了一转
 permalink: /blog/:title
 layout: blog
 date: 2025-04-25
