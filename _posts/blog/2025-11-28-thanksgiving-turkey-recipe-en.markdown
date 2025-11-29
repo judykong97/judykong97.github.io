@@ -1,5 +1,5 @@
 ---
-title: Judy's Homemade Asian Fushion Turkey Recipe
+title: Judy's Homemade Asian Fusion Turkey Recipe
 permalink: /blog/:title
 layout: blog
 date: 2025-11-28
@@ -18,9 +18,7 @@ It adds a sweet, fruity depth to the traditional turkey flavor. Inspired by the 
 
 ---
 
-### 📝 Recipe
-
-> *Note: Like many traditional Chinese recipes, this one does not follow exact measurements. Seasoning = "just right." Adjust turkey size and baking time based on other sources.*
+### Recipe
 
 ---
 
