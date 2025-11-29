@@ -1,5 +1,5 @@
 ---
-title: Judy's Homemade Asian Fusion Turkey Recipe
+title: Judy's Honey Glazed Asian Fusion Turkey Recipe
 permalink: /blog/:title
 layout: blog
 date: 2025-11-28
