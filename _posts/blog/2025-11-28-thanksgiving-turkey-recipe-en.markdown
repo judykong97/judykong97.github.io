@@ -6,13 +6,13 @@ date: 2025-11-28
 written: Nov 28, 2025
 ---
 
-**POV:** Years in research, now you have a thing for turning lived experiences into generalizable knowledge and making things reproducible.
+*POV: Years in research, now you have a thing for turning lived experiences into generalizable knowledge and making things reproducible.*
 
-This article introduces *Judy's Homemade Asian Fusion Turkey Recipe*, after nearly a decade of Friendsgiving turkey iterations. The recipe blends traditional turkey-making with Asian culinary inspirations, including but not limited to:
+*This article introduces **Judy's Homemade Asian Fusion Turkey Recipe**, after nearly a decade of Friendsgiving turkey iterations. The recipe blends traditional turkey-making with Asian culinary inspirations, including but not limited to:*
 
-- Nanjing Roasted Duck (from my hometown)
-- Cantonese Char Siu (BBQ Pork)
-- Thai Grilled Pork Jowl
+* Nanjing Roasted Duck (from my hometown)
+* Cantonese Char Siu (BBQ Pork)
+* Thai Grilled Pork Jowl
 
 It adds a sweet, fruity depth to the traditional turkey flavor. Inspired by the famous “Three-Way Peking Duck” (一鸭三吃), this recipe also includes side dishes: turkey soup and turkey noodles.
 
