@@ -1,5 +1,5 @@
 ---
-title: 留子的邪修改良版感恩节烤火鸡（吃过的都说好）
+title: 留子的烤鸭改良版感恩节邪修烤火鸡（吃过的都说好）
 permalink: /blog/:title
 layout: blog
 date: 2025-11-28
