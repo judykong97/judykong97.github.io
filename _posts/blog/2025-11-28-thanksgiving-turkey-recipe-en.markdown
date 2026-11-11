@@ -1,5 +1,5 @@
 ---
-title: Judy's Homemade Asian Fusion Turkey Recipe
+title: Judy's Homemade Asian Fusion Honey Glazed Turkey Recipe
 permalink: /blog/:title
 layout: blog
 date: 2025-11-28
@@ -8,15 +8,13 @@ written: Nov 28, 2025
 
 POV: Years in research, now you have a thing for turning lived experiences into generalizable knowledge and making things reproducible.
 
-This article introduces **Judy's Homemade Asian Fusion Turkey Recipe**, after nearly a decade of Friendsgiving turkey iterations. The recipe blends traditional turkey-making with Asian culinary inspirations, including but not limited to:
+This article introduces **Judy's Homemade Asian Fusion Honey Glazed Turkey Recipe**, after nearly a decade of Friendsgiving turkey iterations. The recipe blends traditional turkey-making with Asian culinary inspirations, including but not limited to:
 
 * Nanjing Roasted Duck (from my hometown)
 * Cantonese Char Siu (BBQ Pork)
 * Thai Grilled Pork Jowl
 
-It adds a sweet, fruity depth to the traditional turkey flavor. Multiple friends who tried the turkey reported it was the "best turkey" they've had in their lives.
-
-Inspired by the famous “Three-Way Peking Duck” (一鸭三吃), this recipe also includes side dishes: turkey soup and turkey noodles.
+It adds a sweet, fruity depth to the traditional turkey flavor. Most friends who tried the turkey reported it was the "best turkey" they've had in their lives.
 
 ---
 
@@ -59,6 +57,7 @@ Inspired by the famous “Three-Way Peking Duck” (一鸭三吃), this recipe a
 
 #### Procedure
 
+(Mostly traditional turkey prep steps, but definitely do it the night before so the seasoning really goes into the turkey. The innovative step here is the use of a wine bottle, and the goal is really just keeping the turkey dry with college-dorm level kitchen supply XD)
 **Step 0**: Unpack turkey, remove giblets and neck, pat dry  
 **Step 1**: Cut 1 onion into chunks, rub inside and outside of turkey  
 **Step 2**: Massage turkey thoroughly with salt and black pepper; let sit 2 hrs  
@@ -83,35 +82,35 @@ Chop celery/onions, sauté with butter and salt, add breadcrumbs & herbs
 
 #### 12PM–6:30PM: Roasting
 
+(Here's an example timeline, and you should adjust the exact time based on the weight of the turkey... plenty of charts and guidelines if you look it up on Google so I won't elaborate here.)
 **Step 12**: Wrap wings and drumsticks in foil to prevent burning  
 **Step 13**: Wrap entire tray in foil to avoid charring the skin  
 **Step 14**: Preheat oven to 400°F. Roast for 30–60 mins (to seal moisture)  
 (HERE COMES THE KEY STEP!!)
-**Step 15**: Take turkey out, generously apply honey all over  
+**Step 15**: **Take turkey out, generously apply honey all over**  
 **Step 16**: Re-wrap, lower oven to 325°F, roast for 2 hrs  
-**Step 17**: Take out, apply honey again  
+**Step 17**: **Take out, apply honey again**  
 **Step 18**: Re-wrap, continue 325°F for another 2 hrs  
-**Step 19**: Take out, apply honey one last time  
+**Step 19**: **Take out, apply honey one last time**  
 **Step 20**: Remove all foil, return turkey to oven at 400°F for color  
 **Step 21**: Roast another 30–60 mins as needed (check internal temp, or ensure no red juice leaks)  
-**Step 22**: Decorate! Remove old orange, replace with fresh one, add rosemary/lemon/cranberry on top  
-**Step 23**: Serve & celebrate!
+**Step 22**: Decorate! Remove old orange, replace with fresh one (just for the look), add rosemary/lemon/cranberry on top  
+**Step 23**: DONE!! Now it's time to enjoy the turkey :)
 
 ---
 
 ### The Day AFTER Thanksgiving
 
-By the time Thanksgiving is over, you've had *enough* turkey. So the legendary “Three-Way Turkey” dishes (aka: leftover hacks) are reserved for post-midnight cravings (when you're online shopping at 3AM and your stomach starts making decisions), or for lunch the next day.
+Technically the official "honey-glazed" turkey recipe ends here. But inspired by the famous “Three-Way Peking Duck” (一鸭三吃), this recipe also includes side dishes: turkey soup and turkey noodles.
 
-Here's the move:  
+This invention has nothing to do with my supreme talent in cooking. Rather, it originated from a 3 AM online shopping session in my college dorm, when all of us were super hungry and there was still a whole tray of leftover turkey in the kitchen. So we decided to just throw it into the soup pot with our leftover udon noodle in the fridge. 
+
+Turned out amazing. 
+
+So here's the recipe:  
 Take the entire turkey frame + any leftover meat → toss it into a large soup pot.  
 No seasoning needed. Just add water.  
-Boil on high heat, then reduce to low and simmer for 30–60 minutes (or longer).  
-**Voilà! Turkey soup is born.**
-
-If you're really hungry, throw in some noodles once the soup is ready.  
-Just boil like you normally would.  
-Tested: instant ramen and udon both work pretty well.
+Boil on high heat, then reduce to low and simmer for 15-30 minutes. Throw in some noodles if you're hungry (instant noodles, udon, whatever you have). 
 
 ---
 
