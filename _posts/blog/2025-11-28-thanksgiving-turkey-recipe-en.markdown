@@ -6,7 +6,7 @@ date: 2025-11-28
 written: Nov 28, 2025
 ---
 
-POV: Years in research, now you have a thing for turning lived experiences into generalizable knowledge and making things reproducible.
+_POV: Years in research, now you have a thing for turning lived experiences into generalizable knowledge and making things reproducible._
 
 This article introduces **Judy's Homemade Asian Fusion Honey Glazed Turkey Recipe**, after nearly a decade of Friendsgiving turkey iterations. The recipe blends traditional turkey-making with Asian culinary inspirations, including but not limited to:
 
