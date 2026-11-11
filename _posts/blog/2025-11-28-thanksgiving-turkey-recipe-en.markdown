@@ -8,11 +8,7 @@ written: Nov 28, 2025
 
 _POV: Years in research, now you have a thing for turning lived experiences into generalizable knowledge and making things reproducible._
 
-This article introduces **Judy's Honey Glazed Asian Fusion Turkey Recipe**, after a decade of Friendsgiving turkey iterations. The recipe blends traditional turkey-making with Asian culinary inspirations, including but not limited to:
-
-* Nanjing Roasted Duck (from my hometown)
-* Cantonese Char Siu (BBQ Pork)
-* Thai Grilled Pork Jowl
+This article introduces **Judy's Honey Glazed Asian Fusion Turkey Recipe**, after a decade of Friendsgiving turkey iterations. The recipe blends traditional turkey-making with Asian culinary inspirations, including but not limited to: Nanjing Roasted Duck (from my hometown), Cantonese Char Siu (BBQ Pork), and Thai Grilled Pork Jowl. 
 
 It adds a sweet, fruity depth to the traditional turkey flavor. Most friends who tried the turkey reported it was the _"best turkey"_ they've had in their lives.
 
@@ -45,7 +41,8 @@ It adds a sweet, fruity depth to the traditional turkey flavor. Most friends who
 
 ### Day BEFORE Thanksgiving
 
-(Mostly traditional turkey prep steps, but definitely do it the night before so the seasoning really goes into the turkey. The innovative step here is the use of a wine bottle, and the goal is really just keeping the turkey dry with college-dorm level kitchen supply XD)
+Mostly traditional turkey prep steps, but definitely do it the night before so the seasoning really goes into the turkey. The innovative step here is the use of a wine bottle, and the goal is really just keeping the turkey dry with college-dorm level kitchen supply.
+
 **Step 0**: Unpack turkey, remove giblets and neck, pat dry  
 **Step 1**: Cut 1 onion into chunks, rub inside and outside of turkey  
 **Step 2**: Massage turkey thoroughly with salt and black pepper; let sit 2 hrs  
@@ -60,7 +57,8 @@ It adds a sweet, fruity depth to the traditional turkey flavor. Most friends who
 ### Thanksgiving Day
 
 #### 10AM–12PM: Stuffing & prep
-(These are the traditional steps so I'll skip over the details)
+
+These are the traditional steps so I'll skip over the details
 
 **Steps 6–9**:  
 Chop celery/onions, sauté with butter and salt, add breadcrumbs & herbs
@@ -71,7 +69,7 @@ Chop celery/onions, sauté with butter and salt, add breadcrumbs & herbs
 
 #### 12PM–6:30PM: Roasting
 
-(Here's an example timeline, and you should adjust the exact time based on the weight of the turkey... plenty of charts and guidelines if you look it up on Google so I won't elaborate here.)
+Here's an example timeline, and you should adjust the exact time based on the weight of the turkey... plenty of charts and guidelines if you look it up on Google so I won't elaborate here.
 
 **Step 12**: Wrap wings and drumsticks in foil to prevent burning  
 **Step 13**: Wrap entire tray in foil to avoid charring the skin  
@@ -96,7 +94,7 @@ Technically the official "honey-glazed" turkey recipe ends here. But inspired by
 
 This invention has nothing to do with my supreme talent in cooking. Rather, it originated from a 3 AM online shopping session in my college dorm, when all of us were super hungry and there was still a whole tray of leftover turkey in the kitchen. So we decided to just throw it into the soup pot with our leftover udon noodle in the fridge. 
 
-IT TURNED OUT AMAZING. 
+IT WAS AMAZING. 
 
 So here's the recipe:  
 Take the entire turkey frame + any leftover meat → toss it into a large soup pot. No seasoning needed, just add water.  
@@ -112,8 +110,6 @@ The repeated honey glazing every two hours is the game changer. It mimics the Na
 
 ### Closing Remarks & Cultural Context
 
-I grew up in Nanjing, where duck reigns supreme (joke goes: “no duck can swim across the Yangtze: they all get eaten”).
+I grew up in Nanjing, where duck reigns supreme (joke goes: “no duck can swim across the Yangtze: they all get eaten”). No one roasts duck at home there. You just walk to the nearest shop. But living far from home, craving duck, no stores around, you DIY. This recipe came from my early college days when I confused the steps for turkey and roasted duck, applied honey every time we opened the oven... yet it turned out amazing.
 
-No one roasts duck at home there. You just walk to the nearest shop. But living far from home, craving duck, no stores around... you DIY. This recipe came from my early college days when I confused the steps for turkey and roasted duck, applied honey every time we opened the oven... yet it turned out amazing.
-
-Traditional roasted turkey, in my humble opinion, is hardly comparable to my amazing fusion-style honey-glazed turkey. As a Chinese person, born and raised in Nanjing, I proudly own my cuilinary inventions. After all, cooking is an art and it's in my blood. So is how to properly deal with a duck or duck-like creature. 
+Traditional roasted turkey, in my humble opinion, is hardly comparable to my amazing fusion style honey glazed turkey. As a Chinese person, born and raised in Nanjing, I proudly own my cuilinary inventions. After all, cooking is an art and it's in my blood. So is how to properly deal with a duck or duck-like creature > <
