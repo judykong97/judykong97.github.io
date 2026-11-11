@@ -96,31 +96,21 @@ Technically the official "honey-glazed" turkey recipe ends here. But inspired by
 
 This invention has nothing to do with my supreme talent in cooking. Rather, it originated from a 3 AM online shopping session in my college dorm, when all of us were super hungry and there was still a whole tray of leftover turkey in the kitchen. So we decided to just throw it into the soup pot with our leftover udon noodle in the fridge. 
 
-Turned out amazing. 
+IT TURNED OUT AMAZING. 
 
 So here's the recipe:  
-Take the entire turkey frame + any leftover meat → toss it into a large soup pot.  
-No seasoning needed. Just add water.  
+Take the entire turkey frame + any leftover meat → toss it into a large soup pot. No seasoning needed, just add water.  
 Boil on high heat, then reduce to low and simmer for 15-30 minutes. Throw in some noodles if you're hungry (instant noodles, udon, whatever you have). 
 
 ---
 
-### 🔬 Highlights & Explanation
+### Highlights & Explanation
 
-The repeated honey glazing every two hours is the game changer.  
-It mimics the Nanjing roasted duck method of brushing sugar water repeatedly and reflects Thai BBQ's sweet-savory balance.  
-Slow roasting with honey = juicy, flavorful, golden-skinned turkey.
+The repeated honey glazing every two hours is the game changer. It mimics the Nanjing roasted duck method of brushing sugar water repeatedly and reflects Thai BBQ's sweet-savory balance, and produces juicy, flavorful, golden-skinned turkey.
 
 ---
 
-### 🗣️ Friend Reviews
-
-> “This is the best turkey I’ve ever had.”  
-> “So tender, juicy, and flavorful!”
-
----
-
-### 🦆 Closing Remarks & Cultural Context
+### Closing Remarks & Cultural Context
 
 I grew up in Nanjing, where duck reigns supreme (joke goes: “no duck can swim across the Yangtze: they all get eaten”).
 
